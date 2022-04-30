@@ -2,7 +2,7 @@ var titulo = document.querySelector("#hola");
 var parrafo = document.querySelector("#parrafo").innerHTML;
 console.log(titulo.textContent = "chau");
 
-document.querySelector("#hola").innerHTML = parrafo
+document.querySelector("#hola_").innerHTML = parrafo
 document.querySelector("#parrafo").innerHTML = titulo
 
 var parrafo2 = document.querySelector("#parrafo2");
